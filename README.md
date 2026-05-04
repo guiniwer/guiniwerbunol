@@ -2,7 +2,7 @@
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=90&section=header"/>
 </p>
 
-# 👩‍💻 Olá, eu me chamo Güiniwer 💜
+# 👩‍💻 Olá, eu me chamo Güiniwer
 
 <p align="center">
   <em>Estudante de Análise e Desenvolvimento de Sistemas | Front-end Developer em formação</em>
@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ Sobre mim
+## Sobre mim
 Gosto muito de coisas que envolvam tecnologia, design e experiências digitais.  
 Atualmente foco em **desenvolvimento front-end** e **UX & UI**, onde consigo unir criatividade com lógica para criar interfaces modernas, intuitivas e funcionais.
 
@@ -24,7 +24,7 @@ Sou muito comunicativa, organizada, focada em aprender e gosto de trabalhar em e
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### 🎨 Design
 <p>
@@ -83,7 +83,7 @@ Crescer como desenvolvedora front-end, criando projetos que impactem pessoas e t
 
 ---
 
-## 📫 Contato
+## Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/guiniwer-bunol/
 - 📧 Email: guiniwerbunol@gmail.com | guiniwermendess@gmail.com 
@@ -91,5 +91,5 @@ Crescer como desenvolvedora front-end, criando projetos que impactem pessoas e t
 ---
 
 <p align="center">
-✨ <strong> *"Design, código e ideias — tudo no mesmo lugar."*</strong> ✨
+ <strong> <em> "Design, código e ideias — tudo no mesmo lugar." </em> </strong> 
 </p>
