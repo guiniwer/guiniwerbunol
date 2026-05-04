@@ -1,4 +1,8 @@
-# 👩‍💻 Olá, eu sou Güiniwer 💜
+<p align="center">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=90&section=header"/>
+</p>
+
+# 👩‍💻 Olá, eu me chamo Güiniwer 💜
 
 <p align="center">
   <em>Estudante de Análise e Desenvolvimento de Sistemas | Front-end Developer em formação</em>
@@ -9,6 +13,8 @@
 ## ✨ Sobre mim
 Gosto muito de coisas que envolvam tecnologia, design e experiências digitais.  
 Atualmente foco em **desenvolvimento front-end** e **UX & UI**, onde consigo unir criatividade com lógica para criar interfaces modernas, intuitivas e funcionais.
+
+Sou muito comunicativa, organizada, focada em aprender e gosto de trabalhar em equipe. Tenho facilidade em me adaptar, buscar soluções e evoluir tecnicamente.
 
 ## 🚀 Interesses
 - 🎨 UI/UX Design  
@@ -25,6 +31,16 @@ Atualmente foco em **desenvolvimento front-end** e **UX & UI**, onde consigo uni
   <img src="https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
+  <img src="https://img.shields.io/badge/Adobe-ff0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+</p>
+
+---
+
+### 🎮 Games & Criação
+<p>
+  <img src="https://img.shields.io/badge/Blender-f5792a?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Construct-00a693?style=for-the-badge&logo=construct3&logoColor=white"/>
 </p>
 
 ---
@@ -46,6 +62,7 @@ Atualmente foco em **desenvolvimento front-end** e **UX & UI**, onde consigo uni
 
 ### ⚙️ Back-end & Dados
 <p>
+  <img src="https://img.shields.io/badge/Java-ff6f00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/API%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Banco%20de%20Dados-003b57?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -61,15 +78,6 @@ Atualmente foco em **desenvolvimento front-end** e **UX & UI**, onde consigo uni
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎯 Objetivo
 Crescer como desenvolvedora front-end, criando projetos que impactem pessoas e tragam experiências digitais memoráveis.
 
@@ -77,11 +85,11 @@ Crescer como desenvolvedora front-end, criando projetos que impactem pessoas e t
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK  
-- 📧 Email: seuemail@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/guiniwer-bunol/
+- 📧 Email: guiniwerbunol@gmail.com | guiniwermendess@gmail.com 
 
 ---
 
 <p align="center">
-✨ <strong>"Transformando ideias em experiências digitais."</strong> ✨
+✨ <strong> *"Design, código e ideias — tudo no mesmo lugar."*</strong> ✨
 </p>
