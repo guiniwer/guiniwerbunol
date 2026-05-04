@@ -5,10 +5,12 @@
 # 👩‍💻 Olá, eu me chamo Güiniwer
 
 <p align="center">
-  <em>Estudante de Análise e Desenvolvimento de Sistemas | Front-end Developer em formação</em>
+  <em>Estudante de Análise e Desenvolvimento de Sistemas | Front-end Developer | Web Designer em formação</em>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## Sobre mim
 Gosto muito de coisas que envolvam tecnologia, design e experiências digitais.  
